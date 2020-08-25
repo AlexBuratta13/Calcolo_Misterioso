@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseMistero", "ClasseMistero\ClasseMistero.csproj", "{425B8D49-F2A1-4810-ADE3-59A828D99ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcoloMisterioTest", "CalcoloMisterioTest\CalcoloMisterioTest.csproj", "{6CCDC7C2-0B08-4F72-8F78-1A12288BA6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425B8D49-F2A1-4810-ADE3-59A828D99ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425B8D49-F2A1-4810-ADE3-59A828D99ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425B8D49-F2A1-4810-ADE3-59A828D99ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425B8D49-F2A1-4810-ADE3-59A828D99ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCDC7C2-0B08-4F72-8F78-1A12288BA6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCDC7C2-0B08-4F72-8F78-1A12288BA6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCDC7C2-0B08-4F72-8F78-1A12288BA6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCDC7C2-0B08-4F72-8F78-1A12288BA6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9594235-FCA5-4703-846C-32AB752D9073}
+	EndGlobalSection
+EndGlobal
